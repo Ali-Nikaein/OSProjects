@@ -1,0 +1,20 @@
+Process B
+def var1 4
+def var2 8
+def var3 240
+def var4 148
+def var5 300
+
+Process A
+def var1 20
+def var2 32
+def var3 48
+def var4 64
+def var5 80
+
+Process C
+def var1 120
+def var2 60
+def var3 96
+def var4 104
+def var5 32
